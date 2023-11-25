@@ -19,6 +19,9 @@ body {
   background-size: cover;
   background-position: center;
 }
+.bg_turquesa{
+  background-color: rgb(168, 203, 192)
+}
 
 /* Contacto */
 
